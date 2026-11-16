@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RenOrPOS.Data/RenOrPOS.Data.csproj" Id="dbbf5bf8-dd70-4d18-a16a-3a91ac0d78a0" />
+  <Project Path="RenOrPOS.Domain/RenOrPOS.Domain.csproj" Id="4047d959-3a0c-4780-8545-1a6ab45a6b7f" />
+  <Project Path="RenOrPOS.Services/RenOrPOS.Services.csproj" Id="5f97302f-b6e0-4963-b8c3-086282ee5b02" />
+  <Project Path="RenOrPOS.WinForms/RenOrPOS.WinForms.csproj" Id="c58e0134-1a89-45e5-bfb9-657158bd9b0a" />
+  <Project Path="RenOrPOS/RenOrPOS.csproj" Id="da675815-ea6c-46ed-8eed-34e963bd36e0" />
+</Solution>
